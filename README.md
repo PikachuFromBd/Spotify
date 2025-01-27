@@ -143,7 +143,7 @@ GET https://pika-spotify.vercel.app/dl/?name=Shape of You
 ### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo-name/pika-spotify.git
+   git clone https://github.com/PikachuFromBd/Spotify.git
    cd pika-spotify
    ```
 
